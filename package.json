@@ -13,7 +13,7 @@
     "@types/react": "16.9.2",
     "@types/react-dom": "16.8.5",
     "date-fns": "^2.0.0-beta.5",
-    "dexie": "^2.0.4",
+    "dexie": "^3.2.2",
     "electron-is-dev": "^1.1.0",
     "material-table": "^1.50.0",
     "react": "^16.9.0",
